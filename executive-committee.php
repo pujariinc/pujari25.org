@@ -39,7 +39,7 @@ include("include/header.php");
                                               Email: <strong><a href="mailto:priya.k.das@gmail.com">priya.k.das@gmail.com</a></strong></p></td>
                                           </tr>
                                           <tr>
-                                            <td rowspan="2" valign="top" width="187"><p> VP, Operations</p></td>
+                                            <td rowspan="2" valign="top" width="187"><p><strong>VP, Operations</strong></p></td>
                                             <td valign="top" width="196"><p> Abhijit Hajra</p></td>
                                             <td valign="top" width="278"><p> Phone: 678-361-5204<br />
                                               Email: <strong><a href="mailto:ahazra@hotmail.com">ahazra@hotmail.com</a></strong></p></td>
@@ -80,31 +80,20 @@ include("include/header.php");
                                               Email: <strong><a href="mailto:pranesh68@gmail.com">pranesh68@gmail.com</a></strong></p></td>
                                           </tr>
                                           <tr>
-                                            <td rowspan="2" valign="top" width="187"><p> Food &amp; Services Secretary</p></td>
+                                            <td valign="top" width="187"><p><strong>Food &amp; Services Secretary</strong></p></td>
                                             <td valign="top" width="196"><p> Niloofer Mondal</p></td>
                                             <td valign="top" width="278"><p> Phone: 770-517-0783&nbsp;<br />
                                               Email: <strong><a href="mailto:nmondal2000@yahoo.com">nmondal2000@yahoo.com</a></strong></p></td>
                                           </tr>
                                           <tr>
-                                            <td valign="top" width="196"><p> Madhumitha Mukhopadhya</p></td>
-                                            <td valign="top" width="278"><p> Phone: 770-516-3696&nbsp;<br />
-                                              Email: <strong><a href="mailto:rsatya111@yahoo.com">rsatya111@yahoo.com</a></strong></p></td>
-                                          </tr>
-                                          <tr>
-                                            <td rowspan="2" valign="top" width="187"><p> Event Mgmt. Secretary</p></td>
-                                            <td valign="top" width="196"><p> Parthasarathi Roy</p></td>
-                                            <td valign="top" width="278"><p> Phone: 770-349-5329&nbsp;<br />
-                                              Email: <strong><a href="mailto:parthasr12@yahoo.com">parthasr12@yahoo.com</a></strong></p></td>
-                                          </tr>
-                                          <tr>
-                                            <td valign="top" width="196"><p> Prabir Bhattacharyya</p></td>
-                                            <td valign="top" width="278"><p> Phone: 678-473-4610&nbsp;<br />
-                                              Email: <strong><a href="mailto:prabir.bhattacharyya@gmail.com">prabir.bhattacharyya@gmail.com</a></strong></p></td>
+                                            <td valign="top" width="187"><p><strong>Event Mgmt. Secretary</strong></p></td>
+                                            <td valign="top" width="196"><p>TBD</p></td>
+                                            <td valign="top" width="278"><p>Phone:&nbsp;<br />Email: <strong><a href="mailto:"></a></strong></p></td>
                                           </tr>
                                           <tr>
                                             <td valign="top" width="187"><p> <strong>VP, Publication</strong></p></td>
-                                            <td valign="top" width="196"><p> Sutapa Datta</p></td>
-                                            <td valign="top" width="278"><p> Phone: 770-559-0853<br />
+                                            <td valign="top" width="196"><p>TBD</p></td>
+                                            <td valign="top" width="278"><p>Phone:&nbsp;<br/>
                                               Email: <strong><a href="mailto:editor@pujari.org">editor@pujari.org</a></strong></p></td>
                                           </tr>
                                           <tr>
@@ -127,9 +116,9 @@ include("include/header.php");
                                           </tr>
                                           <tr>
                                             <td valign="top" width="187"><p> <strong>VP, Steering Commitee</strong></p></td>
-                                            <td valign="top" width="196"><p> Amithabho Datta</p></td>
-                                            <td valign="top" width="278"><p> Phone: 770-559-0853<br />
-                                              Email: <strong><a href="mailto:adatta.global@gmail.com">adatta.global@gmail.com</a></strong></p></td>
+                                            <td valign="top" width="196"><p>TBD</p></td>
+                                            <td valign="top" width="278"><p>Phone:<br />
+                                              Email: <strong><a href="mailto:"></a></strong></p></td>
                                           </tr>
                                         </tbody>
                                     </table></td>
