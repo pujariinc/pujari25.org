@@ -11,7 +11,7 @@ p { margin-bottom:8px; }
 
 body { background:#eeeeee url(../images/bg.png); }
 
-.bg_top { background:url(../images/bg_top.png) repeat-x center top; min-height:400px; padding-top:70px; }
+.bg_top { background:url(../images/bg_top.png) repeat-x center top; min-height:400px; padding-top:0px; }
 .bg_bot { background:url(../images/bg_bot.png) repeat-x center bottom; }
 
 /* ########****** Common Elements *************###### */
@@ -30,11 +30,16 @@ i { font-style:italic; }
 .text_right { text-align:right; }
 /* ########****** Common Elements End *************###### */
 
+.transparent {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  opacity: 0.5;
+}
 
 #header { background:url(../images/header_bg.png) no-repeat 0px 0px; height:293px; }
 .logo { float:left; margin:20px 0px 0px 6px; }
 
-.menu { background:url(../images/menu_bg.png) repeat-x 0px 0px; height:50px; }
+.menu { background:url(../images/menu_bg.png) repeat-x 0px 0px; height:50px; margin-top: -40px; }
 .menu ul { list-style:none; float:left; }
 .menu ul li { float:left; }
 .menu ul li a { color:#3c3733; font-size:14px; text-decoration:none; padding:10px 20px 14px 20px; font-weight:bold; display:block; }
