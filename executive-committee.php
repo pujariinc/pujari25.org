@@ -40,14 +40,14 @@ include("include/header.php");
                                           </tr>
                                           <tr>
                                             <td rowspan="2" valign="top" width="187"><p><strong>VP, Operations</strong></p></td>
-                                            <td valign="top" width="196"><p> Abhijit Hajra</p></td>
+                                            <td valign="top" width="196"><p> Abhijit Hazra</p></td>
                                             <td valign="top" width="278"><p> Phone: 678-361-5204<br />
                                               Email: <strong><a href="mailto:ahazra@hotmail.com">ahazra@hotmail.com</a></strong></p></td>
                                           </tr>
                                           <tr>
                                             <td valign="top" width="196"><p> Surojit Chatterjee</p></td>
                                             <td valign="top" width="278"><p> Phone: 678-640-4151<br />
-                                              Email: <strong><a href="mailto:surajit.chatterjee@ge.com">surajit.chatterjee@ge.com</a></strong></p></td>
+                                              Email: <strong><a href="mailto:chsurajit@gmail.com">chsurajit@gmail.com</a></strong></p></td>
                                           </tr>
                                           <tr>
                                             <td valign="top" width="187"><p> <strong>VP, Cultural</strong></p></td>
@@ -87,13 +87,14 @@ include("include/header.php");
                                           </tr>
                                           <tr>
                                             <td valign="top" width="187"><p><strong>Event Mgmt. Secretary</strong></p></td>
-                                            <td valign="top" width="196"><p>TBD</p></td>
-                                            <td valign="top" width="278"><p>Phone:&nbsp;<br />Email: <strong><a href="mailto:"></a></strong></p></td>
+                                            <td valign="top" width="196"><p> Surojit Chatterjee</p></td>
+                                            <td valign="top" width="278"><p> Phone: 678-640-4151&nbsp;<br />
+                                              Email: <strong><a href="mailto:chsurajit@gmail.com">chsurajit@gmail.com</a></strong></p></td>
                                           </tr>
                                           <tr>
                                             <td valign="top" width="187"><p> <strong>VP, Publication</strong></p></td>
-                                            <td valign="top" width="196"><p>TBD</p></td>
-                                            <td valign="top" width="278"><p>Phone:&nbsp;<br/>
+                                            <td valign="top" width="196"><p>Arnab Bose</p></td>
+                                            <td valign="top" width="278"><p>Phone: 641-275-2749&nbsp;<br/>
                                               Email: <strong><a href="mailto:editor@pujari.org">editor@pujari.org</a></strong></p></td>
                                           </tr>
                                           <tr>
@@ -113,12 +114,6 @@ include("include/header.php");
                                             <td valign="top" width="196"><p> Bulbul Banik</p></td>
                                             <td valign="top" width="278"><p> Phone: 770-579-8594<br />
                                               Email: <strong><a href="mailto:brb67@yahoo.com">brb67@yahoo.com</a></strong></p></td>
-                                          </tr>
-                                          <tr>
-                                            <td valign="top" width="187"><p> <strong>VP, Steering Commitee</strong></p></td>
-                                            <td valign="top" width="196"><p>TBD</p></td>
-                                            <td valign="top" width="278"><p>Phone:<br />
-                                              Email: <strong><a href="mailto:"></a></strong></p></td>
                                           </tr>
                                         </tbody>
                                     </table></td>
