@@ -9,7 +9,7 @@
   count: 5, 
   withFriends: true,
   ignoreReplies: false,
-  template: '<table width="100%" cellspacing="0" cellpadding="0" align="center"><tr><td valign="top"><span class="status">"%text%"</span> | <span class="time"><a href="http://twitter.com/%user_screen_name%/statuses/%id%" class="time">%time%</a></span></td></tr></table><div class="separator_tweet"></div>'
+  template: '<table width="100%" cellspacing="0" cellpadding="0" align="center"><tr><td valign="top"><span class="status">%text%</span><span class="prefix"> via <a href="http://twitter.com/%user_screen_name%" class="blue">%user_name%</a></span>, <span class="time"><a href="http://twitter.com/%user_screen_name%/statuses/%id%" class="time">%time%</a></span></td></tr></table><div class="separator_tweet"></div>'
   });
 </script>                
 <script type="text/javascript" src="script/jquery-1.4.2.min.js"></script>

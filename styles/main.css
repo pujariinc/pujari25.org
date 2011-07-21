@@ -74,7 +74,7 @@ a.brown_link { background:url(../images/icon_link.png) no-repeat 0px 0px; paddin
 .recent_tweets ul { list-style:none; }
 .recent_tweets ul li { margin-bottom:10px; border-bottom:1px dotted #a2a2a2; padding-bottom:10px; }
 .recent_tweets span.prefix a { color:#515151; text-decoration:none; font-weight:bold; }
-.recent_tweets span.status { color:#919191; }
+.recent_tweets span.status { color:#919191;}
 .recent_tweets span.status a { color:#919191; }
 .recent_tweets span.time a { color:#515151; text-decoration:none; }
 
