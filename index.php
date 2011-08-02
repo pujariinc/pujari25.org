@@ -23,34 +23,19 @@ include("include/header.php");
                     	<!--<div id="content_hide" class="content_hide">-->
                         <div>
                     		<!-- Add homepage content after this -->
-                        	<h1>Next Event : Sarbojonin Durgotsav 2011</h1>
+                        	<h1>Next Event: Sarbojonin Durgotsav 2011</h1>
                             <p><strong>From :</strong> Friday, 30th September 2011 &nbsp; &nbsp; <strong>To :</strong> Sunday 2nd October 2011</p>
                             
                             	<table cellpadding="0" cellspacing="0">
                                 	<tr>
-                                    	<td><img src="images/banner/durgotsav_2011_01.png" /></td>
+                                    	<td><img src="images/banner/DP_2011_Flyer_web.jpg" /></td>
                                     </tr>
-                                    <tr>
-                                    	<td><img src="images/banner/durgotsav_2011_02.png" /></td>
-                                    </tr>
-                                    <tr>
-                                    	<td><img src="images/banner/durgotsav_2011_03.png" /></td>
-                                    </tr>
-                                    <tr>
-                                    	<td><img src="images/banner/durgotsav_2011_04.png" /></td>
-                                    </tr>
-                                    <tr>
-                                    	<td><img src="images/banner/durgotsav_2011_05.png" /></td>
-                                    </tr>
-                                    <tr>
-                                    	<td><img src="images/banner/durgotsav_2011_06.png" /></td>
-                                    </tr>
-                                </table>
+                              </table>
                             
                             <div class="download_link">
                             	<table width="100%" cellpadding="0" cellspacing="0">
                                 	<tr>
-                                    	<td class="download"><a href="images/banner/DP_2011 Flyer.jpg" target="_blank"><strong>Download</strong> Poster</a></td>
+                                    	<td class="download"><a href="images/banner/DP_2011_Flyer.jpg" target="_blank"><strong>Download</strong> Poster</a></td>
                                         <td align="right">(to save right click and save target as)</td>
                                     </tr>
                                 </table>
