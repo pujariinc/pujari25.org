@@ -59,7 +59,7 @@ include("include/header.php");
                                 </tr>
                                 <tr>
                                   <td valign="top" width="227"><p> Santanu Kar</p></td>
-                                  <td valign="top" width="300"><p> <strong>Phone: 678-200-3993</strong><br />
+                                  <td valign="top" width="300"><p> <strong></strong><br />
                                     Email: <strong><a href="mailto:sunny.santanu@gmail.com">sunny.santanu@gmail.com</a></strong></p></td>
                                 </tr>
                                 <tr>
