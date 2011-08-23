@@ -93,7 +93,9 @@ a.brown_link { background:url(../images/icon_link.png) no-repeat 0px 0px; paddin
 .announcement h2 { background:url(../images/icon_announcement.png) no-repeat 0px 0px; padding-left:45px; text-transform:uppercase; color:#3e1a0d; font-size:16px; font-weight:bold; line-height:35px; margin-bottom:10px; border-bottom:1px solid #ccc; }
 .announcement div.text { line-height:16px; font-size:13px; }
 .announcement div.text ol { margin-left:18px; }
-.announcement div.text ol li { padding-bottom:8px; }
+.announcement div.text ol li { padding-bottom:8px;}
+.announcement div.text ul { margin-left:6px; }
+.announcement div.text ul li { padding-bottom:8px;list-style-type: none;}
 
 .header { margin:15px 0px; }
 .header h2 { text-transform:uppercase; color:#3e1a0d; font-size:16px; font-weight:bold; line-height:35px; margin-bottom:10px; border-bottom:1px solid #ccc; }
