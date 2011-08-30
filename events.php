@@ -62,6 +62,11 @@ include("include/header.php");
                                 </div>
                                 <div class="media">
                                   <strong>Videos</strong><br/>
+                                  <a href="http://www.youtube.com/watch?v=G-a32-KPq4s" target="_blank">Video 1</a> |
+                                  <a href="http://www.youtube.com/watch?v=7xnnb7G4knU" target="_blank">Video 2</a> |
+                                  <a href="http://www.youtube.com/watch?v=vNrkeiS68jw" target="_blank">Video 3</a> |
+                                  <a href="http://www.youtube.com/watch?v=JKQmQERNDf4" target="_blank">Video 4</a> |
+                                  <a href="http://www.youtube.com/watch?v=7_z8zitEm0A" target="_blank">Video 5</a>
                                 </div>
                               </div>
                             </div>
@@ -97,6 +102,48 @@ include("include/header.php");
                                 <li>9:30 pm to 11:00 pm - Manomay with his Band from Kolkata (<strong>Ticketed</strong>) <br/>Introductions: Richa Samanta</li>
                               </ul>
                             </div>
+                            <br/>
+                            <div class="artist_info">
+                              <h4>Artist Profiles</h4>
+                              <div class="artist">
+                                <div class="photo">
+                                  <img src="images/artists/tanushree_1.png"/><br/><br/>
+                                  <img src="images/artists/tanushree_2.jpg"/>
+                                </div>
+                                <div class="info">
+                                  <strong>Tanushree Shankar</strong>
+                                  <br/>Dancer and choreographer Tanushree Shankar is the Artistic Director of Tanusree Shankar Dance Company in Kolkata. Based on the creative style, pioneered by the legendary dancer Uday Shankar, Tanusree has developed a kind of choreography known as “New Dance” which is creative and contemporary. The dances, set to the vibrant music of visionary artiste Ananda Shankar and others, are presented in a theatrical manner to reach out to audiences worldwide. The dances are a perfect blend of the rich Indian traditions and the more open outlook of the west – they are Indian in spirit, modern in presentation and universal in appeal. The members of Tanusree Shankar’s Dance Troupe are accomplished dancers having performed both in India and in more than 40 countries. They have performed in many prestigious festivals, including Middfest International in U.S.A., the Womad Festival in U.K. & Canary Islands, and the Edinburgh International Fringe Festival in U.K.
+                                  <br/><br/>
+                                </div>
+                                <div class="media">
+                                  <strong>Videos</strong><br/>
+                                  <a href="http://www.youtube.com/watch?v=1nH3uHU52D4" target="_blank">Video 1</a> |
+                                  <a href="http://www.youtube.com/watch?v=mGRx1y11K0g" target="_blank">Video 2</a> |
+                                  <a href="http://www.youtube.com/watch?v=ZmrQO0s4n5A" target="_blank">Video 3</a>
+                                </div>
+                              </div>
+                            </div>
+                            <br/>
+                            <div class="artist_info">
+                              <h4>Artist Profiles</h4>
+                              <div class="artist">
+                                <div class="photo">
+                                  <img src="images/artists/manomay.jpg"/>
+                                </div>
+                                <div class="info">
+                                  <strong>Manomay Bhattacharya</strong>
+                                  <br/>Relax on Saturday night with the soothing voice of Manomay Bhattacharya who is the fifth generation of JADUBHATTA and one of the most well known Rabindra Sangeet & modern song singers off late from Kolkata. Manomay trained under Benukumar Dobey, Bibhuti Bose & Jayanta Bose, who trained him a finer nuance of classical music. He learnt Tagore songs from his father and various styles of singing viz. Nazrul Geeti, Rajnikanter Gaan, Atulprasad, Dewijendra Geeti, Ragpradhan, Bhajan & Modern Bengali songs from illustrious teachers like Biman Mukhopadhyay, Sukumar Mitra, Dilip Roy, Anal Chattopadhyay, Sanjay Chakraborty, Jatileshwar Mukhopadhyay and Pandit Ajay Chakraborty. For more info, visit his <a href="http://manomaybhattacharya.com/adver/102278achivement.html" target="_blank">website</a>.
+                                  <br/><br/>
+                                </div>
+                                <div class="media">
+                                  <strong>Videos</strong><br/>
+                                  <a href="http://www.youtube.com/watch?v=lp42NEH5eew" target="_blank">Video 1</a> |
+                                  <a href="http://www.youtube.com/watch?v=VgCcwqo2VRA" target="_blank">Video 2</a> |
+                                  <a href="http://www.youtube.com/watch?v=rtgkbahUmKA" target="_blank">Video 3</a> |
+                                  <a href="http://www.youtube.com/watch?v=t8fyBZO9618" target="_blank">Video 4</a>
+                                </div>
+                              </div>
+                            </div>
                           </div>
                         </div>
                         <div class="event_item clear_both">
@@ -124,6 +171,50 @@ include("include/header.php");
                                 <li>5:00 pm to 7:00 pm – Soumen & Pratibha (<strong>Ticketed</strong>)<br/>Zee TV’s SA RE GA MA PA 'Jodi No. 1'</li>
                                 <li>4:30 pm to 8:00 pm - Dinner/Snacks will be <strong>available for purchase</strong></li>
                               </ul>
+                              <br/><br/><br/>
+                              <strong>Rock & Roll your Sunday evening to the rhythm of this sensational Bollywood “Jodi No. 1” <br/>from Zee TV’s SA RE GA MA PA...</strong>
+                              Soumen and Pratibha have been regular performers together as “JODI # 1” all over the world.
+                            </div>
+                            <br/>
+                            <div class="artist_info">
+                              <h4>Artist Profiles</h4>
+                              <div class="artist">
+                                <div class="photo">
+                                  <img src="images/artists/soumen.png"/>
+                                </div>
+                                <div class="info">
+                                  <strong>Soumen Nandi</strong>
+                                  <br/>Soumen Nandi is the third finalist of Zee SA RE GA MA PA 2009 & the winner of Zee Bangla SA RE GA MA PA. A superb classical and Hindi/Bengali singer of modern songs.
+                                  <br/><br/>
+                                </div>
+                                <div class="media">
+                                  <strong>Videos</strong><br/>
+                                  <a href="http://www.youtube.com/watch?v=Q_3rLz3HpNo" target="_blank">Video 1</a> |
+                                  <a href="http://www.youtube.com/watch?v=Q_3rLz3HpNo" target="_blank">Video 2</a> |
+                                  <a href="http://www.youtube.com/watch?v=2L9wmm2lxAw" target="_blank">Video 3</a>
+                                </div>
+                              </div>
+                            </div>
+                            <br/>
+                            <div class="artist_info">
+                              <h4>Artist Profiles</h4>
+                              <div class="artist">
+                                <div class="photo">
+                                  <img src="images/artists/pratibha.png"/>
+                                </div>
+                                <div class="info">
+                                  <strong>Pratibha Singh Baghel</strong>
+                                  <br/>Pratibha Singh Baghel who is also known as Shankar Mahadevan’s desi girl was awarded for “SABSE BULAND AWAZ” amongst 2009 SA RE GA MA PA contestants. She is a Bollywood playback singer and recently performed live with Shankar Mahadevan and Himesh Reshmiya in India as well as abroad. For more info., visit her <a href="http://www.pratibhabaghel.com/" target="_blank">website</a>.
+                                  <br/><br/>
+                                </div>
+                                <div class="media">
+                                  <strong>Videos</strong><br/>
+                                  <a href="http://www.youtube.com/watch?v=sDkHQRaQttQ" target="_blank">Video 1</a> |
+                                  <a href="http://www.youtube.com/watch?v=T9D9OabUPJ8" target="_blank">Video 2</a> |
+                                  <a href="http://www.youtube.com/watch?v=8TdcSmL3n2s" target="_blank">Video 3</a> |
+                                  <a href="http://www.youtube.com/watch?v=H3ayWBWL0Mk" target="_blank">Video 4</a>
+                                </div>
+                              </div>
                             </div>
                           </div>
                         </div>
