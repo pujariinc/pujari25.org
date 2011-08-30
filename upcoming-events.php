@@ -38,8 +38,8 @@ include("include/header.php");
                                 </td>
                                 <td>
                                 <p><strong><span style="font-size: 16px;">Durga Puja</span></strong></p>
-                                <p>From : September 30, 2011</p>
-                                <p>To : October 02, 2011</p>
+                                <p>From September 30, 2011 to October 02, 2011</p>
+                                <p><a href="events_DP2011.php">View program details and times</a></p>
                                 </td>
                                 </tr>
                                 
