@@ -14,6 +14,12 @@ body { background:#eeeeee url(../images/bg.png); }
 .bg_top { background:url(../images/bg_top.png) repeat-x center top; min-height:400px; padding-top:0px; }
 .bg_bot { background:url(../images/bg_bot.png) repeat-x center bottom; }
 
+.float_right { float: right; }
+.float_left { float: left; }
+.clear_both { clear: both; }
+.clear_left { clear: left; }
+.clear_right { clear: right; }
+
 /* ########****** Common Elements *************###### */
 #wrapper { width:1214px; }
 .clear { clear:both; }
@@ -61,10 +67,19 @@ i { font-style:italic; }
 .content_left { border-right:1px dotted #515151; width:223px; padding-right:10px; }
 .content_mid { padding:0px 10px; }
 .content_right { border-left:1px dotted #515151; padding-left:10px; width:215px; }
+.sub_content { width: 650px; }
 
 .content_mid h1 { color:#3e1a0d; font-size:16px; font-weight:bold; border-bottom:1px solid #ccc; padding-bottom:4px; margin-bottom:6px; }
+.content_hide {height:auto; overflow:hidden;}
 
-.content_hide {height:440px; overflow:hidden;}
+.sub_content h2 { color:#3e1a0d; font-family: "Times New Roman"; font-size:25px; font-weight:normal; font-style: italic; padding-left:10px; padding-bottom:2px; }
+.sub_content h3 { color:#3e1a0d; font-family: "Times New Roman"; font-size:12px; font-weight:normal; font-style: italic; padding-left:10px; padding-bottom:4px; margin-bottom:10px; margin-top:-4px; }
+.sub_content h4 { color:#3e1a0d; font-size:14px; font-weight:bold; padding-left:8px; padding-bottom:4px; margin-bottom:6px;}
+.sub_content ul { margin-left: 20px;}
+.event_item { padding-top: 20px;}
+.artist_info .artist .photo { float: left;}
+.artist_info .artist .info { margin: 5px auto; float: right; width: 400px;}
+.artist_info .artist .media { float:left; }
 
 a.link { background:url(../images/icon_link.png) no-repeat 0px 0px; padding-left:20px; color:#541717; font-size:14px; font-weight:normal; font-family:"Times New Roman", Times, serif; font-style:italic;  text-decoration:none; }
 a.brown_link { background:url(../images/icon_link.png) no-repeat 0px 0px; padding-left:20px; color:#541717; font-size:18px; font-family:"Times New Roman", Times, serif; font-style:italic; font-weight:normal; text-decoration:none; }
