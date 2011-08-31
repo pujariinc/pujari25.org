@@ -3,8 +3,9 @@ include("include/top.php");
 ?>
 <meta name="description" content="Pujari is a socio-cultural organization based in Atlanta, Georgia." />
 <meta name="keywords" content="Pujari, Cultural, Organization, Picnic, Cultural Programme, Baisakhi, Lakshmi Puja, Durga Puja, New Year Parties, Bangomela, Anjali, Publication, atlanta, georgia, bengali, durga puja, saraswati puja, laxmi puja, diwali, bengali club, association, cultural, bengali organization, puja, pooja, durga, saraswati, laxmi, lakshmi, rabindra sangeet, picnic, bengali community, community events, baisakhi, poila baishakhi, USA, new year's party, new year's eve, celebration, community participation, natok, dance drama, music kobita, drawing competition, kid's program, bengali adda">
+<title>Pujari | A socio-cultural organization in Atlanta, Georgia</title>
 <?php
-include("include/header.php");  
+include("include/header.php");
 // ********* Add this part in every page **** //
 ?>
 

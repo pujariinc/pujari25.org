@@ -3,8 +3,9 @@ include("include/top.php");
 ?>
 <meta name="description" content="Pujari - A socio-cultural Organization in Atlanta, GA USA.">
 <meta name="keywords" content="Pujari, Cultural, Organization, Picnic, Cultural Programe, Baisakhi, Lakshmi Puja, Durga Puja, New Year Parties, Bangomela, Anjali, Publication, ">
+<title>Pujari Atlanta | Upcoming Events</title>
 <?php
-include("include/header.php");  
+include("include/header.php");
 // ********* Add this part in every page **** //
 ?>
 

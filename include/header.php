@@ -1,4 +1,3 @@
-<title>Pujari | A socio-cultural organization in Atlanta, Georgia</title>
 <link href="http://pujari.org/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 <link rel="stylesheet" type="text/css" href="styles/main.css" />
 <script type="text/javascript" src="script/twitter.js"></script>
