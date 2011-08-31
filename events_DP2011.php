@@ -25,7 +25,7 @@ include("include/header.php");
                           <!-- Add homepage content after this -->
                           <h2>Durga Puja 2011 - Cultural Program Timeline & Details</h2>
                         </div>
-                        <div class="event_item clear_both">
+                        <div id="DPDay1" class="event_item clear_both">
                           <div class="date_bg float_left">
                             <div class="month">Sep</div>
                             <div class="date">30</div>
@@ -72,7 +72,7 @@ include("include/header.php");
                             </div>
                           </div>
                         </div>
-                        <div class="event_item clear_both">
+                        <div id="DPDay2" class="event_item clear_both">
                           <div class="date_bg float_left">
                             <div class="month">Oct</div>
                             <div class="date">01</div>
@@ -146,7 +146,7 @@ include("include/header.php");
                             </div>
                           </div>
                         </div>
-                        <div class="event_item clear_both">
+                        <div id="DPDay3" class="event_item clear_both">
                           <div class="date_bg float_left">
                             <div class="month">Oct</div>
                             <div class="date">2</div>

@@ -24,21 +24,67 @@ include("include/header.php");
                         <div>
                     		<!-- Add homepage content after this -->
                         	<h1>Next Event: Sarbojonin Durgotsav 2011</h1>
-                            <p><strong>From :</strong> Friday, 30th September 2011 &nbsp; &nbsp; <strong>To :</strong> Sunday 2nd October 2011</p>
-                            
-                            	<table cellpadding="0" cellspacing="0">
-                                	<tr>
-                                    	<td><img src="images/banner/DP_2011_Flyer_web.jpg" /></td>
-                                    </tr>
-                              </table>
-                            
-                            <div class="download_link">
-                            	<table width="100%" cellpadding="0" cellspacing="0">
-                                	<tr>
-                                    	<td class="download"><a href="images/banner/DP_2011_Flyer.jpg" target="_blank"><strong>Download</strong> Poster</a></td>
-                                        <td align="right">(to save right click and save target as)</td>
-                                    </tr>
-                                </table>
+                            <p><strong>From:</strong> Friday, 30th September 2011 &nbsp; &nbsp; <strong>To:</strong> Sunday, 2nd October 2011</p>
+                            <p><strong>Venue:</strong> Berkmar High School, 405 Pleasant Hill Road NW, Lilburn GA 30047</p>
+                            <p><strong>Contacts:</strong> Sudipto: 678-777-8336 | Bob: 404-431-0091 | Prabir: 404-275-0930 </p>
+                            <div class="event_item clear_both">
+                              <div class="date_bg float_left">
+                                <div class="month">Sep</div>
+                                <div class="date">30</div>
+                              </div>
+                              <div class="sub_content float_left">
+                                <h2>Amontron Night</h2>
+                                <h3>Friday, September 30, 2011</h3>
+                                <div class="highlights">
+                                  <div class="photo">
+                                    <img src="images/artists/rathijit.png" width="150px"/>
+                                  </div>
+                                  <p><strong>Highlights:</strong></p>
+                                  <p>Registration, Reception, Networking, Pujo, Dinner, <br/>performance by Rathijit Bhattacharya</p>
+                                  <p><a href="events_DP2011.php#DPDay1">View full program times and details</a></p>
+                                </div>
+                                <br/>
+                              </div>
+                            </div>
+                            <div class="event_item clear_both">
+                              <div class="date_bg float_left">
+                                <div class="month">Oct</div>
+                                <div class="date">01</div>
+                              </div>
+                              <div class="sub_content float_left">
+                                <h2>Kolkata Night</h2>
+                                <h3>Saturday, October 1st, 2011</h3>
+                                <div class="highlights">
+                                  <div class="photo">
+                                    <img src="images/artists/tanushree_1.png" width="150px"/>
+                                    <img src="images/artists/manomay.jpg" width="150px"/>
+                                  </div>
+                                  <p><strong>Highlights:</strong></p>
+                                  <p>Pujo, Prasad, Lunch, Local Programs, Aroti, Dinner, <br/>performance by Tanushree Shankar Dance Company and Monomoy & Troupe</p>
+                                  <p><a href="events_DP2011.php#DPDay2">View full program times and details</a></p>
+                                </div>
+                                <br/>
+                              </div>
+                            </div>
+                            <div class="event_item clear_both">
+                              <div class="date_bg float_left">
+                                <div class="month">Oct</div>
+                                <div class="date">02</div>
+                              </div>
+                              <div class="sub_content float_left">
+                                <h2>Bollywood Night</h2>
+                                <h3>Sunday, October 2nd, 2011</h3>
+                                <div class="highlights">
+                                  <div class="photo">
+                                    <img src="images/artists/soumen.png" width="150px"/>
+                                    <img src="images/artists/pratibha.png" height="95px"/>
+                                  </div>
+                                  <p><strong>Highlights:</strong></p>
+                                  <p>Pujo, Lunch, Bisharjan, <br/>performances by Soumen Nandi & Pratibha Singh Baghel</p>
+                                  <p><a href="events_DP2011.php#DPDay3">View full program times and details</a></p>
+                                </div>
+                                <br/>
+                              </div>
                             </div>
                     		<!-- Add homepage content before this -->
                         </div>

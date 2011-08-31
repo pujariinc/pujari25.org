@@ -76,6 +76,9 @@ i { font-style:italic; }
 .sub_content h3 { color:#3e1a0d; font-family: "Times New Roman"; font-size:12px; font-weight:normal; font-style: italic; padding-left:10px; padding-bottom:4px; margin-bottom:10px; margin-top:-4px; }
 .sub_content h4 { color:#3e1a0d; font-size:14px; font-weight:bold; padding-left:8px; padding-bottom:4px; margin-bottom:6px;}
 .sub_content ul { margin-left: 20px;}
+.sub_content .highlights {float: right; margin: 10px auto; width: 620px;}
+.sub_content .highlights .photo { float: left; padding-right: 10px;}
+
 .event_item { padding-top: 20px;}
 .artist_info {float: left; margin-top: 10px;}
 .artist_info .artist .photo { float: left; padding-right: 5px; padding-bottom: 10px;}
