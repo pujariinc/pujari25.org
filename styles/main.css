@@ -85,6 +85,8 @@ i { font-style:italic; }
 .artist_info .artist .info { margin: 5px auto; float: right; width: 400px;}
 .artist_info .artist .media { float:left; padding-left: 5px;}
 
+.announcement input[type="image"] {margin-top: 10px;}
+
 a.link { background:url(../images/icon_link.png) no-repeat 0px 0px; padding-left:20px; color:#541717; font-size:14px; font-weight:normal; font-family:"Times New Roman", Times, serif; font-style:italic;  text-decoration:none; }
 a.brown_link { background:url(../images/icon_link.png) no-repeat 0px 0px; padding-left:20px; color:#541717; font-size:18px; font-family:"Times New Roman", Times, serif; font-style:italic; font-weight:normal; text-decoration:none; }
 
