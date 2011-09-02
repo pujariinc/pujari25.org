@@ -24,6 +24,7 @@
         <ul>
           <li><a href="ads/D-DISH-FC73D988_00001.png" target="_blank"><img src="ads/D-DISH-FC73D988_00001_thumb.png" /></a></li>
           <li><a href="ads/CompleteInsurance.png" target="_blank"><img src="ads/CompleteInsurance_thumb.png" /></a></li>
+          <li><a href="ads/Chatpatti.png" target="_blank"><img src="ads/Chatpatti_thumb.png" /></a></li>
         </ul>
       </div>
     </div>
