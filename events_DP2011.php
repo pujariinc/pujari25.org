@@ -34,7 +34,7 @@ include("include/header.php");
                           <div class="sub_content float_left">
                             <h2>Amontron Night</h2>
                             <h3>Friday, September 30, 2011</h3>
-                            <div class="text">
+                            <div class="programs">
                               <h4>Local Programs</h4>
                               <ul>
                                 <li>7:00 pm to 8:15 pm  - Maa Durga Darshan & Reception</li>
@@ -81,7 +81,7 @@ include("include/header.php");
                           <div class="sub_content float_left">
                             <h2>Kolkata Night</h2>
                             <h3>Saturday, October 1st, 2011</h3>
-                            <div class="text">
+                            <div class="programs">
                               <h4>Local Programs</h4>
                               <ul>
                                 <li>7:00 am to 1.00 pm - Puja, Prasad Bitaran, Bhog & Anjali</li>
@@ -155,10 +155,13 @@ include("include/header.php");
                           <div class="sub_content float_left">
                             <h2>Bollywood Hangama Night</h2>
                             <h3>Sunday, October 2nd, 2011</h3>
-                            <div class="float_right">
-                              <a href="images/banner/Bollywood_Night_Flyer.jpg" target="_blank"><img src="images/banner/Bollywood_Night_Flyer_thumb.jpg" alt="Pujari presents Bollywood Hangama Night 2011"></a>
-                            </div>
-                            <div class="text">
+                            <div class="programs">
+                              <div class="float_right">
+                                <a href="images/banner/Bollywood_Night_Flyer.jpg" target="_blank"><img src="images/banner/Bollywood_Night_Flyer_thumb.jpg" alt="Pujari presents Bollywood Hangama Night 2011"></a>
+                              </div>
+                              <strong>Rock & Roll your Sunday evening to the rhythm of this sensational Bollywood “Jodi No. 1” from Zee TV’s SA RE GA MA PA...</strong>
+                              Soumen and Pratibha have been regular performers together as “JODI # 1” all over the world.
+                              <br/><br/>
                               <h4>Local Programs</h4>
                               <ul>
                                 <li>9:00 am to 1.30 pm - Puja, Prasad Bitaran, Bhog & Anjali</li>
@@ -172,9 +175,6 @@ include("include/header.php");
                                 <li>5:00 pm to 7:00 pm – Soumen & Pratibha (<strong>Ticketed</strong>)<br/>Zee TV’s SA RE GA MA PA 'Jodi No. 1'</li>
                                 <li>4:30 pm to 8:00 pm - Dinner/Snacks will be <strong>available for purchase</strong></li>
                               </ul>
-                              <br/><br/><br/>
-                              <strong>Rock & Roll your Sunday evening to the rhythm of this sensational Bollywood “Jodi No. 1” <br/>from Zee TV’s SA RE GA MA PA...</strong>
-                              Soumen and Pratibha have been regular performers together as “JODI # 1” all over the world.
                             </div>
                             <br/>
                             <div class="artist_info">
