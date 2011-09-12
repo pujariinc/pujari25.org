@@ -67,7 +67,7 @@ i { font-style:italic; }
 .content_left { border-right:1px dotted #515151; width:223px; padding-right:10px; }
 .content_mid { padding:0px 10px; }
 .content_right { border-left:1px dotted #515151; padding-left:10px; width:215px; }
-.sub_content { width: 650px; }
+.sub_content { width: 580px; }
 
 .content_mid h1 { color:#3e1a0d; font-size:16px; font-weight:bold; border-bottom:1px solid #ccc; padding-bottom:4px; margin-bottom:6px; }
 .content_hide {height:auto; overflow:hidden;}
