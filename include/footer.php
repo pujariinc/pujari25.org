@@ -19,17 +19,6 @@
           <li><a href="#"><img src="images/video_thumb/thumb_02.png" /></a></li>
         </ul>
       </div>
-      <div class="sponsors">
-        <h2><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="left">OUR SPONSORS</td><td align="right" class="read_more"><!--<a href="#">view more &raquo;</a>--></td></tr></table></h2>
-        <ul>
-          <li><a href="ads/D-DISH-FC73D988_00001.png" target="_blank"><img src="ads/D-DISH-FC73D988_00001_thumb.png" /></a></li>
-          <li><a href="ads/CompleteInsurance.png" target="_blank"><img src="ads/CompleteInsurance_thumb.png" /></a></li>
-          <li><a href="ads/Chatpatti.png" target="_blank"><img src="ads/Chatpatti_thumb.png" /></a></li>
-          <li><a href="ads/Global_Mela.png" target="_blank"><img src="ads/Global_Mela_thumb.png" /></a></li>
-          <li><a href="ads/Highglow.png" target="_blank"><img src="ads/Highglow_thumb.png" /></a></li>
-          <li><a href="ads/Metlife.png" target="_blank"><img src="ads/Metlife_thumb.png" /></a></li>
-        </ul>
-      </div>
     </div>
         
     <div class="footer">

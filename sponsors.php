@@ -7,55 +7,55 @@ include("include/header.php");
         
         <div id="content_container">
         	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-            	<tr>
-                	<!-- Left Sidebar Start Here -->
-                	<td class="content_left">
-                    	<div class="recent_tweets">
-                        	<h2>Recent Tweets</h2>
-                            <div id="twitters">Tweets Loading...</div>
-                        </div>
-                        
-                        <div class="share">
-                        	<table width="100%" cellpadding="0" cellspacing="0">
-                            	<tr>
-                                	<td style="vertical-align:middle;" align="left"><h2>Share</h2></td>
-                                    <td align="right" style="padding-top:0px;"><img src="images/icon_orkut.png" alt="Orkut" /> &nbsp; <img src="images/icon_twitter.png" alt="Twitter" /> &nbsp; <img src="images/icon_facebook.png" alt="Facebook" /></td>
-                                </tr>
-                            </table>
-                        </div>
-                        
-                        <?php include("include/spread_love.php"); ?>
-                    </td><!-- Left Sidebar End -->
-                    
-                    <!-- Content Area Start -->
-                    <td class="content_mid">
-                    	<div class="header">
-                        	<h2>Sponsors</h2>
-                            
-                            
-                            
-                        </div>
-                    </td><!-- *********** Content Area End *************** -->
-                    
-                    
-                    
-                    
-                	<!-- ############# Right Sidebar Start Here ############## -->
-                    <td class="content_right">
-                    	<div class="announcement">
-                        	<h2>Announcements</h2>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-                            <div class="read_more"><a href="#">read more &raquo;</a></div>
-                        </div>
-                        
-                        <div class="header">
-                        	<h2>Past Events</h2>
-                        </div>
-                    </td><!-- ############# Right Sidebar End ############## -->
-                    
-                    
-                </tr>
-            </table>
+            <tr>
+              <!-- Left Sidebar Start Here -->
+              <td class="content_left">
+                  <?php include("include/left_sidebar.php"); ?>
+              </td>
+              <!-- Left Sidebar End -->
+
+              <!-- Content Area Start -->
+              <td class="content_mid">
+                <div class="header">
+                  <h2>Sponsors</h2>
+                  <div class="sponsors">
+                    <h3>Pujari is thankful to the sponsors for their continued support</h3>
+                    <ul>
+                      <li><a href="ads/D-DISH-FC73D988_00001.png" target="_blank"><img src="ads/D-DISH-FC73D988_00001_thumb.png" /></a></li>
+                      <li><a href="ads/CompleteInsurance.png" target="_blank"><img src="ads/CompleteInsurance_thumb.png" /></a></li>
+                      <li><a href="ads/Global_Mela.png" target="_blank"><img src="ads/Global_Mela_thumb.png" /></a></li>
+                      <li><a href="ads/Highglow.png" target="_blank"><img src="ads/Highglow_thumb.png" /></a></li>
+                      <li><a href="ads/Metlife.png" target="_blank"><img src="ads/Metlife_thumb.png" /></a></li>
+                      <li><a href="ads/AmDent.jpg" target="_blank"><img src="ads/AmDent_thumb.jpg" /></a></li>
+                      <li><a href="ads/Georgia_Halal_Meat.jpg" target="_blank"><img src="ads/Georgia_Halal_Meat_thumb.jpg" /></a></li>
+
+                      <li><a href="ads/Curry2Go.jpg" target="_blank"><img src="ads/Curry2Go_thumb.jpg" /></a></li>
+                      <li><a href="ads/Himalaya_2011.jpg" target="_blank"><img src="ads/Himalaya_2011_thumb.jpg" /></a></li>
+                      <li><a href="ads/Left_Chapman_Hall.png" target="_blank"><img src="ads/Left_Chapman_Hall_thumb.png" /></a></li>
+                      <li><a href="ads/MadrasChtnd_0411.png" target="_blank"><img src="ads/MadrasChtnd_0411_thumb.png" /></a></li>
+                      <li><a href="ads/Patel_Brothers_2011.jpg" target="_blank"><img src="ads/Patel_Brothers_2011_thumb.jpg" /></a></li>
+                      <li><a href="ads/Right_BCG_ABOLUTE.png" target="_blank"><img src="ads/Right_BCG_ABOLUTE_thumb.png" /></a></li>
+
+                      <li><a href="ads/Shivam.jpg" target="_blank"><img src="ads/Shivam_thumb.jpg" /></a></li>
+                      <li><a href="ads/Global_Groceries.png" target="_blank"><img src="ads/Global_Groceries_thumb.png" /></a></li>
+                      <li><a href="ads/Chatpatti.png" target="_blank"><img src="ads/Chatpatti_thumb.png" /></a></li>
+                      <li><a href="ads/Mirch_Masala.jpg" target="_blank"><img src="ads/Mirch_Masala_thumb.jpg" /></a></li>
+
+
+                    </ul>
+                  </div>
+                </div>
+              </td>
+              <!-- Content Area End  -->
+
+              <!-- Right Sidebar Start Here -->
+              <td class="content_right">
+                <?php include("include/right_sidebar.php"); ?>
+              </td>
+              <!-- Right Sidebar End -->
+
+            </tr>
+          </table>
         </div>
         
         

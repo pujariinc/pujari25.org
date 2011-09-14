@@ -135,8 +135,11 @@ a.brown_link { background:url(../images/icon_link.png) no-repeat 0px 0px; paddin
 .sponsors { float:left; width:100%; }
 .sponsors h2 { color:#3c3733; font-size:16px; font-weight:bold; line-height:30px; margin-bottom:10px;
   border-bottom:1px solid #ccc; text-align:left; }
+.sponsors h3 { color:#3c3733; font-size:14px; font-weight:normal; line-height:30px; margin-bottom:10px;
+  border:none; text-align:center; }
 .sponsors ul { list-style:none; }
-.sponsors ul li { float:left; margin-right:15px; }
+.sponsors ul li { float:left; padding: 5px; }
+.sponsors img { width: 90px; }
 .sponsors h2 table tr td.read_more { text-transform:lowercase; font-weight:normal; }
 
 .bottom_content { background:#fbf7ee url(../images/photo_stream_shadow.png) repeat-x 0px 0px;
