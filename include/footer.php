@@ -25,6 +25,9 @@
           <li><a href="ads/D-DISH-FC73D988_00001.png" target="_blank"><img src="ads/D-DISH-FC73D988_00001_thumb.png" /></a></li>
           <li><a href="ads/CompleteInsurance.png" target="_blank"><img src="ads/CompleteInsurance_thumb.png" /></a></li>
           <li><a href="ads/Chatpatti.png" target="_blank"><img src="ads/Chatpatti_thumb.png" /></a></li>
+          <li><a href="ads/Global_Mela.png" target="_blank"><img src="ads/Global_Mela_thumb.png" /></a></li>
+          <li><a href="ads/Highglow.png" target="_blank"><img src="ads/Highglow_thumb.png" /></a></li>
+          <li><a href="ads/Metlife.png" target="_blank"><img src="ads/Metlife_thumb.png" /></a></li>
         </ul>
       </div>
     </div>
