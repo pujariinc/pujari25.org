@@ -80,8 +80,6 @@ i { font-style:italic; }
 .sub_content .highlights .photo { float: left; padding-right: 10px;}
 
 .event_item { padding-top: 20px;}
-/*.programs {float: left; width: 580px; margin: 10px auto;}*/
-/*.artist_info {float: left; margin-top: 10px;}*/
 .artist_info .artist .photo { float: left; padding-right: 5px; padding-bottom: 10px;}
 .artist_info .artist .info { margin: 5px auto; float: right; width: 360px;}
 .artist_info .artist .media { float:left; padding-left: 5px;}
