@@ -1,3 +1,41 @@
+<div class="announcement">
+  <h2>Tickets on Sale</h2>
+  <div class="text">
+    <p>We are happy to announce that the Durga Puja 2011, 3-day family and 1-day individual ticket packages are for sale now, but not for long.
+    Grab the opportunity and buy your tickets online, right now!</p>
+  </div>
+  <center>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="C9AVW7D7DYAJ6">
+    <table>
+    <tr><td><input type="hidden" name="on0" value=">"><strong>Ticket Packages</strong></td></tr><tr><td>
+      <input type="radio" name="os0" value="All 3 Days - Per Family"> All 3 Days - Per Family $160.00<br/>
+      <input type="radio" name="os0" value="All 3 Days - Per Adult"> All 3 Days - Per Adult $80.00<br/>
+      <input type="radio" name="os0" value="Saturday All Day - Per Adult"> Sat. All Day - Per Adult $45.00<br/>
+      <input type="radio" name="os0" value="Saturday Night - Per Adult"> Sat. Night - Per Adult $35.00<br/>
+      <input type="radio" name="os0" value="Sunday All Day - Per Adult"> Sun. All Day - Per Adult $25.00<br/>
+      <input type="radio" name="os0" value="Sunday Bollywood - Per Adult"> Sun. Bollywood - Per Adult $15.00<br/>
+      <input type="radio" name="os0" value="Sunday Bollywood - Per Child (10yrs+)"> Sun Bollywood - Per Child (10yrs+) $10.00<br/>
+    </td></tr>
+    </table>
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form>
+  </center>
+  <br />
+  <div align="center" class="text">
+    <div align="left">
+      <a href="images/banner/DP_2011_Flyer_web.jpg" target="_blank"><img width="100px" src="images/banner/DP_2011_Flyer_thumb.jpg" /></a>
+      &nbsp;&nbsp;
+      <a href="images/banner/Bollywood_Night_Flyer.jpg" target="_blank"><img width="100px" src="images/banner/Bollywood_Night_Flyer_thumb.jpg" /></a>
+      <br/>
+    </div>
+    <p><a href="events_DP2011.php">View full program times and details</a></p>
+  </div>
+</div>
+<br/>
 <div class="recent_tweets">
   <h2>Recent Tweets</h2>
   <div id="twitters">Tweets Loading...</div>
