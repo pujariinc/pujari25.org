@@ -41,8 +41,11 @@ include("include/header.php");
                                 <li> <strong>Get highly discounted tickets to Pujari organized specialty   events like New Year&rsquo;s Celebration, and year-round performances by most   renowned Guest Artists;</strong></li>
                                 <li> <strong>Get connected to the professional community of Pujari. </strong></li>
                               </ul>
-                              <p> Memberships are valid for ONE year, starting on the date payment received. </p>
-                              <p> To become a Pujari member, please complete and   mail the following form along with payments (see instructions &amp;   mailing address on form).</p>
+                              <br/>
+                              <h2>Membership Information and Form</h2>
+                              <p> Memberships are valid for ONE year, starting on the date payment is received.</p>
+                              <p> To become a Pujari member, please <a href="allpdf/membershipform.pdf" target="_blank">download</a> the membership form and print it. Then complete it and mail the form along with payments to the mailing address on the form (see instructions &amp; mailing address on the form).</p>
+                              <p><a href="allpdf/membershipform.pdf" target="_blank"><img src="images/icon_download.png"></a>&nbsp;&nbsp;<a href="allpdf/membershipform.pdf" target="_blank">Download the Membership Form</a> and become a member today and join the Pujari family!</p>
                             </div>
                             
                         </div>
