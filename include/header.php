@@ -65,7 +65,7 @@ function readmore(){
         </li>
         <li class="submenu">Sponsors
           <ul>
-              <li><a href="list-of-sponsors.php">List of Sponsors</a></li>
+              <li><a href="sponsors.php">List of Sponsors</a></li>
                 <li class="last"><a href="pujari-yellow-pages.php">Pujari Yellow Pages</a></li>
             </ul>
         </li>

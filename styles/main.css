@@ -84,6 +84,8 @@ i { font-style:italic; }
 .artist_info .artist .info { margin: 5px auto; float: right; width: 360px;}
 .artist_info .artist .media { float:left; padding-left: 5px;}
 
+.membership_order thead {font-size:14px; font-weight:bold;}
+
 .announcement input[type="image"] {margin-top: 10px;}
 
 a.link { background:url(../images/icon_link.png) no-repeat 0px 0px; padding-left:20px; color:#541717; font-size:14px; font-weight:normal; font-family:"Times New Roman", Times, serif; font-style:italic;  text-decoration:none; }
@@ -139,7 +141,8 @@ a.brown_link { background:url(../images/icon_link.png) no-repeat 0px 0px; paddin
   border:none; text-align:center; }
 .sponsors ul { list-style:none; }
 .sponsors ul li { float:left; padding: 5px; }
-.sponsors img { width: 90px; }
+.sponsors .full_page img { width: 90px; height: 120px;}
+.sponsors .half_page img { width: 90px; height: 60px;}
 .sponsors h2 table tr td.read_more { text-transform:lowercase; font-weight:normal; }
 
 .bottom_content { background:#fbf7ee url(../images/photo_stream_shadow.png) repeat-x 0px 0px;
