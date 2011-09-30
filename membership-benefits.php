@@ -49,6 +49,11 @@ include("include/header.php");
                             </div>
                             
                         </div>
+
+                        <!-- Start Membership order buy button -->
+                        <?php include("include/membership_order.php"); ?>
+                        <!-- End Membership order buy button -->
+
                     </td><!-- *********** Content Area End *************** -->
                     
                     
