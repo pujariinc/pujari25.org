@@ -4,7 +4,7 @@
     <div class="text">
       <p><strong>Drive to join the Bone Marrow Donor Registry</strong></p>
       <p>Location: Berkmar High School
-      <br/>Date/Time: Sun., Oct. 2nd, 2011 ‎1:00-5:00PM</p>
+      <br/>Date/Time: Sun., Oct. 2nd, 2011 1:00-5:00 PM</p>
       <p>We at Pujari, will be hosting at our upcoming Durga Puja, an extraordinary event,
         which will give each of us, the opportunity to be such a "giver". We are planning
         to host a drive to join the Bone Marrow Donor Registry.

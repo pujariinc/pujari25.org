@@ -40,7 +40,14 @@ include("include/header.php");
                       <li><a href="ads/Cloves.jpg" target="_blank"><img src="ads/Cloves_thumb.jpg" /></a></li>
                       <li><a href="ads/Spalding.jpg" target="_blank"><img src="ads/Spalding_thumb.jpg" /></a></li>
                       <li><a href="ads/Spice_World.jpg" target="_blank"><img src="ads/Spice_World_thumb.jpg" /></a></li>
-
+                      <li><a href="ads/Baba_Ramdev_Homeo.png" target="_blank"><img src="ads/Baba_Ramdev_Homeo_thumb.png" /></a></li>
+                      <li><a href="ads/Micky_Mishra_MD.png" target="_blank"><img src="ads/Micky_Mishra_MD_thumb.png" /></a></li>
+                      <li><a href="ads/Heart_Vascular_Kakkar.jpg" target="_blank"><img src="ads/Heart_Vascular_Kakkar_thumb.jpg" /></a></li>
+                      <li><a href="ads/Laurel_Springs.jpg" target="_blank"><img src="ads/Laurel_Springs_thumb.jpg" /></a></li>
+                      <li><a href="ads/MathKids.jpg" target="_blank"><img src="ads/MathKids_thumb.jpg" /></a></li>
+                      <li><a href="ads/Maya_Creations.jpg" target="_blank"><img src="ads/Maya_Creations_thumb.jpg" /></a></li>
+                      <li><a href="ads/Shawn_Walls.jpg" target="_blank"><img src="ads/Shawn_Walls_thumb.jpg" /></a></li>
+                      <li><a href="ads/Vijaya_Collections.jpg" target="_blank"><img src="ads/Vijaya_Collections_thumb.jpg" /></a></li>
                     </ul>
                     <ul class="half_page">
                       <li><a href="ads/Lawrence_Dental.jpg" target="_blank"><img src="ads/Lawrence_Dental_thumb.jpg" /></a></li>
@@ -57,7 +64,10 @@ include("include/header.php");
                       <li><a href="ads/Sukumar_DebRoy_Best_Compliments.jpg" target="_blank"><img src="ads/Sukumar_DebRoy_Best_Compliments_thumb.jpg" /></a></li>
                       <li><a href="ads/Texas_Saree_Sapne.jpg" target="_blank"><img src="ads/Texas_Saree_Sapne_thumb.jpg" /></a></li>
                       <li><a href="ads/Worldwide_Travels.png" target="_blank"><img src="ads/Worldwide_Travels_thumb.png" /></a></li>
-
+                      <li><a href="ads/Stylz.png" target="_blank"><img src="ads/Stylz_thumb.png" /></a></li>
+                      <li><a href="ads/A2Z Electronics.jpg" target="_blank"><img src="ads/A2Z Electronics_thumb.jpg" /></a></li>
+                      <li><a href="ads/Haveli.jpg" target="_blank"><img src="ads/Haveli_thumb.jpg" /></a></li>
+                      <li><a href="ads/Swapanda_Szikman_Dental.jpg" target="_blank"><img src="ads/Swapanda_Szikman_Dental_thumb.jpg" /></a></li>
                     </ul>
                   </div>
                 </div>
