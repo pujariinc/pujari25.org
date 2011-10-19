@@ -13,7 +13,7 @@
         </div>
       </div>
       <div class="youtube_video">
-        <h2><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="left">YOUTUBE VIDEO CHANNEL</td><td align="right" class="read_more"><a href="#">view more &raquo;</a></td></tr></table></h2>
+        <h2><table width="100%" cellpadding="0" cellspacing="0"><tr><td align="left">YOUTUBE VIDEO CHANNEL</td><td align="right" class="read_more"><a href="http://www.youtube.com/user/pujariinc#g/a" target="_blank">view more &raquo;</a></td></tr></table></h2>
         <ul>
           <li><a href="#"><img src="images/video_thumb/thumb_01.png" /></a></li>
           <li><a href="#"><img src="images/video_thumb/thumb_02.png" /></a></li>

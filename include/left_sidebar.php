@@ -1,20 +1,3 @@
-<div class="announcement">
-  <h2>Tickets on Sale</h2>
-  <div class="text">
-    <p>The Durga Puja 2011, 3-day family and 1-day individual ticket packages will now be available at the Registration Desk at the venue.</p>
-  </div>
-  <br />
-  <div align="center" class="text">
-    <div align="left">
-      <a href="images/banner/DP_2011_Flyer_web.jpg" target="_blank"><img width="100px" src="images/banner/DP_2011_Flyer_thumb.jpg" /></a>
-      &nbsp;&nbsp;
-      <a href="images/banner/Bollywood_Night_Flyer.jpg" target="_blank"><img width="100px" src="images/banner/Bollywood_Night_Flyer_thumb.jpg" /></a>
-      <br/>
-    </div>
-    <p><a href="events_DP2011.php">View full program times and details</a></p>
-  </div>
-</div>
-<br/>
 <div class="recent_tweets">
   <h2>Recent Tweets</h2>
   <div id="twitters">Tweets Loading...</div>
