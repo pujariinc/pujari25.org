@@ -17,7 +17,13 @@
     <h3>Sarbojonin Durgotsav</h3>
     <ul>
       <li><a href="events_DP2011.php">Program Details</a></li>
-      <li><a href="http://www.flickr.com/photos/pujariinc/sets/72157627787685973/show" target="_blank">Photos</a></li>
+      <li>Photos
+        <ul>
+          <li><a href="http://www.flickr.com/photos/pujariinc/sets/72157627787685973/show" target="_blank">Puja Coverage</a></li>
+          <li><a href="http://www.flickr.com/photos/pujariinc/sets/72157627790304897/show" target="_blank">Oasis</a></li>
+        </ul>
+      </li>
+
       <li>Videos
         <ul>
           <li><a href="http://youtu.be/M7dWDQ5k0j0" target="_blank">Pujari 25 years</a></li>
