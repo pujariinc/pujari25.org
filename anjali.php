@@ -50,6 +50,20 @@ include("include/header.php");
 
                       <div align="center">
                         <p class="link_heading">
+                          <a class="style14" href="#" target="_blank">Sharodiyo Anjali 2011</a>
+                          <p style="text-align: left;">An interesting <a href="/allpdf/Anjali2011_Kampani_Article.pdf" target="_blank">article</a> about intellectual
+                        property, titled "World Of Intellectual Property Rights", copyright, trademark, and patent written by
+                        Heena N. Kampani, Esq., a patron of Pujari. It was also published in <a href="/allpdf/Sharodiyo_Anjali2011.pdf">Sharodiya Anjali 2011</a>.</p>
+                        <p class="style21">
+                          <a href="allpdf/Sharodiyo_Anjali2011.pdf" target="_blank"><img alt="Sharodiya Anjali 2011" src="images/image_thumb/Sharodiyo_Anjali2011.png" height="234" width="180"></a></p>
+                        </p>
+                        <p class="link_heading">
+                          <a class="style14" href="http://issuu.com/rupakg/docs/25baisakhi_anjali2011?mode=window&viewMode=doublePage" target="_blank">Pochishey Baisakh Anjali 2011</a>
+                        </p>
+                        <center>
+                          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" style="width:420px;height:272px" id="86148904-9a0f-b1fa-1778-526de39f5600" ><param name="movie" value="http://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf?mode=mini&amp;backgroundColor=%23222222&amp;documentId=111116062741-9ff77d771b674e768af8076e9900a4a5" /><param name="allowfullscreen" value="true"/><param name="menu" value="false"/><param name="wmode" value="transparent"/><embed src="http://static.issuu.com/webembed/viewers/style1/v2/IssuuReader.swf" type="application/x-shockwave-flash" allowfullscreen="true" menu="false" wmode="transparent" style="width:420px;height:272px" flashvars="mode=mini&amp;backgroundColor=%23222222&amp;documentId=111116062741-9ff77d771b674e768af8076e9900a4a5" /></object>
+                        </center>
+                        <p class="link_heading">
                           <a class="style14" href="http://issuu.com/designoscope/docs/baisakhi_magazine" target="_blank">Baisakhi Anjali 2010</a>
                         </p>
                         <center>
