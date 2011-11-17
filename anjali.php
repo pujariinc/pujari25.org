@@ -47,16 +47,26 @@ include("include/header.php");
                         any submitted literary piece to fit the context and format of the magazine. Pujari also reserves the right to choose which submitted literary
                         pieces are finally published.
                       </p>
-
                       <div align="center">
                         <p class="link_heading">
-                          <a class="style14" href="#" target="_blank">Sharodiyo Anjali 2011</a>
-                          <p style="text-align: left;">An interesting <a href="/allpdf/Anjali2011_Kampani_Article.pdf" target="_blank">article</a> about intellectual
-                        property, titled "World Of Intellectual Property Rights", copyright, trademark, and patent written by
-                        Heena N. Kampani, Esq., a patron of Pujari. It was also published in <a href="/allpdf/Sharodiyo_Anjali2011.pdf">Sharodiya Anjali 2011</a>.</p>
-                        <p class="style21">
-                          <a href="allpdf/Sharodiyo_Anjali2011.pdf" target="_blank"><img alt="Sharodiya Anjali 2011" src="images/image_thumb/Sharodiyo_Anjali2011.png" height="234" width="180"></a></p>
+                          <a class="style14" href="/allpdf/Sharodiyo_Anjali2011.pdf" target="_blank">Sharodiyo Anjali 2011</a>
+                          <p class="style21">
+                            <a href="/allpdf/Sharodiyo_Anjali2011.pdf" target="_blank"><img alt="Sharodiya Anjali 2011" src="images/image_thumb/Sharodiyo_Anjali2011.png" height="234" width="180"></a>
+                          </p>
                         </p>
+                      </div>
+                      <div>
+                        <p class="float_left">
+                          <a href="/allpdf/Anjali2011_Kampani_Article.pdf" target="_blank"><img alt="World Of Intellectual Property Rights" src="images/image_thumb/Anjali2011_Kampani_Article_Cover.png" height="234" width="181"></a>
+                        </p>
+                        <div style="margin: 50px 0 80px 200px; padding: 60px 20px 60px 20px;">
+                          <p>An interesting <a href="/allpdf/Anjali2011_Kampani_Article.pdf" target="_blank">article</a> about intellectual
+                        property, copyright, trademark, and patent, titled "World Of Intellectual Property Rights", written by
+                        Heena N. Kampani, Esq., a patron of Pujari. It was also published in <a href="/allpdf/Sharodiyo_Anjali2011.pdf" target="_blank">Sharodiya Anjali 2011</a>.
+                          </p>
+                        </div>
+                      </div>
+                      <div align="center">
                         <p class="link_heading">
                           <a class="style14" href="http://issuu.com/rupakg/docs/25baisakhi_anjali2011?mode=window&viewMode=doublePage" target="_blank">Pochishey Baisakh Anjali 2011</a>
                         </p>
