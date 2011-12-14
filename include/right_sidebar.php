@@ -1,7 +1,9 @@
 <div class="announcement">
   <h2>Announcements</h2>
   <div class="text">
-    Stay tuned for the announcement regarding our New Year Eve Party...<br/><br/><br/><br/><br/>
+    <strong>Next Event:</strong> 2012 New Years Eve Party at Ashiana Banquet Hall.<br/><br/>
+    For more information and details visit: <a href="http://atlantanewyearparty.net" target="_blank">http://atlantanewyearparty.net</a>
+    <br/><br/><br/>
   </div>
   <!--<div class="read_more"><a href="#">read more &raquo;</a></div>-->
 </div>
