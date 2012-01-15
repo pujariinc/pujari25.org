@@ -28,7 +28,8 @@ include("include/header.php");
                               <table>
                                 <tbody>
                                   <tr>
-                                    <td valign="top"><table border="1" cellpadding="5" cellspacing="0" class="yloPgeTbl">
+                                    <td valign="top">
+                                      <table border="1" cellpadding="5" cellspacing="0" class="yloPgeTbl">
                                         <tbody>
                                           <tr>
                                             <td colspan="3" valign="top" width="187">
@@ -123,7 +124,68 @@ include("include/header.php");
                                               Email: <strong><a href="mailto:"></a></strong></p></td>
                                           </tr>
                                         </tbody>
-                                    </table></td>
+                                    </table>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td>
+                                      <table border="1" cellpadding="5" cellspacing="0" class="yloPgeTbl">
+                                        <tbody>
+                                          <tr>
+                                            <td colspan="3" valign="top" width="187">
+                                              <h1 style="border-bottom:none; text-align:center;"> 2012 Team Members</h1></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Youth Committee</strong></p></td>
+                                            <td valign="top" width="196"><p>TBD</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Operations</strong></p></td>
+                                            <td valign="top" width="196"><p>Subrojyoti Ghosh, Rupak Ganguly, Surojit Chatterjee, Arunava Mazumder, Sidhartha Ghosh, Saibal Sengupta</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Website</strong></p></td>
+                                            <td valign="top" width="196"><p>Kallol Nandi</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Finance</strong></p></td>
+                                            <td valign="top" width="196"><p>Neel Bhattacharyya, Sushanta Saha</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Public Relation &amp; Membership Drive</strong></p></td>
+                                            <td valign="top" width="196"><p>Mohana Das</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Anjali Magazine</strong></p></td>
+                                            <td valign="top" width="196"><p>Sutapa Datta, Jaba Choudhury, Aradhana Bhattacharyya, Samaresh Mukhopadhayay, Sharmila Roy, Soumya Bhattacharya, Biswanath Bhattacharyya, Subhashree Nandi</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Revenue Generation</strong></p></td>
+                                            <td valign="top" width="196"><p>Subhojit Roy, Joyjit Mukherjee, Samaresh Mukhopadhayay, Kanti Das</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Corporate Fund Raising</strong></p></td>
+                                            <td valign="top" width="196"><p>Pabitra Bhattacharya, Mrinal Chakrabarty, Ujjal Chakravarty, Joyjit Mukherjee, Ashok Das, Kallol Nandi</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Puja Preparation</strong></p></td>
+                                            <td valign="top" width="196"><p>Antara Dutta, Chandana Bhattacharyya, Amitesh Mukherjee, Seemita Chakrabarty, Sumona Chowdhury, Biswanath Bhattacharyya, Molly De</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Food Coordinators</strong></p></td>
+                                            <td valign="top" width="196"><p>Arijit Sarkar, Subir Dutta, Niloofer Mondal, Nachiketa Nandi</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Decoration</strong></p></td>
+                                            <td valign="top" width="196"><p>Reema Saha, Ruma Das, Kasturi Bose, Deepanita Chakraborty, Soma Choudhury, Monali Chatterjee, Paromita DasGupta</p></td>
+                                          </tr>
+                                          <tr>
+                                            <td valign="top" width="187"><p> <strong>Hospitality</strong></p></td>
+                                            <td valign="top" width="196"><p>Indrani Ghosh, Sonia Nandi</p></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
                                   </tr>
                                 </tbody>
                               </table>
