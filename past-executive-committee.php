@@ -21,8 +21,69 @@ include("include/header.php");
                     <!-- Content Area Start -->
                     <td class="content_mid">
                     	<div class="header">
-                        	<h2>Past Executive Committee</h2>
-                            <div class="space_sml"></div>
+                        <h2>Past Executive Committee</h2>
+                          <div class="space_sml"></div>
+                            <h2 class="align_center">2011 Executive Committee</h2>
+                            <div>
+                              <table cellspacing="0" cellpadding="0" class="yloPgeTbl">
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>President</strong></p></td>
+                                  <td valign="top" width="196"><p> P. K. Das</p></td>
+                                </tr>
+                                <tr>
+                                  <td rowspan="2" valign="top" width="187"><p><strong>VP, Operations</strong></p></td>
+                                  <td valign="top" width="196"><p> Abhijit Hazra</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="196"><p> Surojit Chatterjee</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>VP, Cultural</strong></p></td>
+                                  <td valign="top" width="196"><p> Raja Roy</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>VP, Finance</strong></p></td>
+                                  <td valign="top" width="196"><p> Swapan Mondal</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>Treasurer</strong></p></td>
+                                  <td valign="top" width="196"><p> Vikram Das</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>VP, Revenue Generation</strong></p></td>
+                                  <td valign="top" width="196"><p> Subhojit Roy</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>VP, Public Relations and Membership Drive</strong></p></td>
+                                  <td valign="top" width="196"><p> Pranesh Chowdhury</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p><strong>Food &amp; Services Secretary</strong></p></td>
+                                  <td valign="top" width="196"><p> Niloofer Mondal</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p><strong>Event Mgmt. Secretary</strong></p></td>
+                                  <td valign="top" width="196"><p> Surojit Chatterjee</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>VP, Publication</strong></p></td>
+                                  <td valign="top" width="196"><p>Arnab Bose</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>Decoration Secretary</strong></p></td>
+                                  <td valign="top" width="196"><p> Paromita Ghosh</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>Webmaster</strong></p></td>
+                                  <td valign="top" width="196"><p> Rupak Ganguly</p></td>
+                                </tr>
+                                <tr>
+                                  <td valign="top" width="187"><p> <strong>Puja Secretary</strong></p></td>
+                                  <td valign="top" width="196"><p> Bulbul Banik</p></td>
+                                </tr>
+                              </table>
+                            </div>
+                          <div class="space_mid"></div>
                             <h2 class="align_center">2010 Executive Committee</h2>
                             <div>
                               <table cellspacing="0" cellpadding="0" class="yloPgeTbl">
@@ -91,10 +152,8 @@ include("include/header.php");
                                   <td width="276 valign="><p> Rupak Ganguly</p></td>
                                 </tr>
                               </table>
-                          </div>
-                          
-                          
-                          
+                            </div>
+
                          	<div class="space_mid"></div>
                             <h2 class="align_center">2009 Executive Committee</h2>
                             <div>
@@ -129,9 +188,7 @@ include("include/header.php");
                                 </tr>
                               </table>
                           </div>
-                          
-                          
-                          
+
                          	<div class="space_mid"></div>
                             <h2 class="align_center">2008 Executive Committee</h2>
                             <div>
@@ -176,9 +233,7 @@ include("include/header.php");
                                 </tr>
                               </table>
                             </div>
-                          
-                          
-                          
+
                          	<div class="space_mid"></div>
                             <h2 class="align_center">2007 Executive Committee</h2>
                             <div>
@@ -226,9 +281,7 @@ include("include/header.php");
                                 </tr>
                               </table>
                             </div>
-                          
-                          
-                          
+
                          	<div class="space_mid"></div>
                             <h2 class="align_center">2006 Executive Committee</h2>
                             <div>
