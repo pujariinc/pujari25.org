@@ -24,18 +24,30 @@ include("include/header.php");
                     	<!--<div id="content_hide" class="content_hide">-->
                         <div>
                     		<!-- Add homepage content after this -->
-                        	<h1>Next Event: 2012 New Years Eve Party</h1>
-                          <div id="NYEParty" class="event_item clear_both">
+                        	<h1>Next Event: Saraswati Puja 2012 - Cultural Program Timeline & Details</h1>
+                            <p><strong>Venue:</strong> Berkmar High School, 405 Pleasant Hill Road NW, Lilburn GA 30047</p>
+                            <div class="event_item clear_both">
                             <div class="date_bg float_left">
-                              <div class="month">Dec</div>
-                              <div class="date">31</div>
+                              <div class="month">Feb</div>
+                              <div class="date">04</div>
                             </div>
                             <div class="sub_content float_left">
-                              <h2>2012 New Years Eve Party</h2>
-                              <h3>Saturday, December 31st, 2011</h3>
+                              <h2>Saraswati Puja</h2>
+                              <h3>Saturday, February 4th, 2012</h3>
                               <div class="programs">
-                                <h4>Pujari's next event is the most anticipated one, the 2012 New Years Eve Party to be held at Ashiana Banquet Hall (Global Mall).
-                                For more information and details visit: <a href="http://atlantanewyearparty.net" target="_blank">http://atlantanewyearparty.net</a></h4>
+                                <h4>Morning Session</h4>
+                                <ul>
+                                  <li>11:00 am to 12:00 pm - Kids Activities</li>
+                                  <li>12:00 pm to 1:00 pm  - Anjali, Pujo and Prasad</li>
+                                  <li>1:00 pm  to 3:00 pm  - Lunch, Adda & Networking</li>
+                                </ul>
+                                <br/>
+                                <h4>Evening Session</h4>
+                                <ul>
+                                  <li>3:00 pm to 6:30 pm  - Local Cultural Programs</li>
+                                  <li>7:00 pm to 8:00 pm  - Dinner, Adda & Networking</li>
+                                  <li>8:00 pm to 9:30 pm  - Guest Artist</li>
+                                </ul>
                               </div>
                             </div>
                           </div>
