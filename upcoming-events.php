@@ -32,12 +32,35 @@ include("include/header.php");
 
                                 <td width="70px">
                                 <div class="date_bg">
+                                <div class="month">Feb</div>
+                                <div class="date">04</div>
+                                </div>
+                                </td>
+                                <td>
+                                <p><span style="font-size: 16px;"><strong>Saraswati Puja</strong></span></p>
+                                <p>February 4th, 2012</p>
+                                <p><a href="events_SP2012.php">View program details and times</a></p>
+                                </td>
+                                </tr>
+
+                                </tbody>
+                                </table>
+                                </div>
+                                <p>&nbsp;</p>
+
+                                <div class="single_event">
+                                <table border="0" width="100%">
+                                <tbody>
+                                <tr>
+
+                                <td width="70px">
+                                <div class="date_bg">
                                 <div class="month">Apr</div>
                                 <div class="date">14</div>
                                 </div>
                                 </td>
                                 <td>
-                                <p><span style="font-size: 16px;">Baisakhi</span></p>
+                                <p><span style="font-size: 16px;"><strong>Baisakhi</strong></span></p>
                                 <p>2012</p>
                                 <!--<p><a href="events_Baisakhi2012.php">View program details and times</a></p>-->
                                 </td>
@@ -60,7 +83,7 @@ include("include/header.php");
                                 </div>
                                 </td>
                                 <td>
-                                <p><span style="font-size: 16px;">Picnic</span></p>
+                                <p><span style="font-size: 16px;"><strong>Picnic</strong></span></p>
                                 <p>2012</p>
                                 <!--<p><a href="events_Picnic2012.php">View program details and times</a></p>-->
                                 </td>
@@ -83,7 +106,7 @@ include("include/header.php");
                                 </div>
                                 </td>
                                 <td>
-                                <p><span style="font-size: 16px;">Durga Puja</span></p>
+                                <p><span style="font-size: 16px;"><strong>Durga Puja</strong></span></p>
                                 <p>From 2012 to 2012</p>
                                 <!--<p><a href="events_DP2012.php">View program details and times</a></p>-->
                                 </td>
