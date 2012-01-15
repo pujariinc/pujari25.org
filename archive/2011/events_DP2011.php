@@ -52,7 +52,7 @@ include("include/header.php");
                               <h4>Artist Profiles</h4>
                               <div class="artist">
                                 <div class="photo">
-                                  <img src="images/artists/rathijit.png"/>
+                                  <img src="../../images/artists/rathijit.png"/>
                                 </div>
                                 <div class="info">
                                   <strong>Rathijit Bhattacharya</strong>
@@ -108,8 +108,8 @@ include("include/header.php");
                               <h4>Artist Profiles</h4>
                               <div class="artist">
                                 <div class="photo">
-                                  <img src="images/artists/tanushree_1.png"/><br/><br/>
-                                  <img src="images/artists/tanushree_2.jpg"/>
+                                  <img src="../../images/artists/tanushree_1.png"/><br/><br/>
+                                  <img src="../../images/artists/tanushree_2.jpg"/>
                                 </div>
                                 <div class="info">
                                   <strong>Tanushree Shankar</strong>
@@ -129,7 +129,7 @@ include("include/header.php");
                               <h4>Artist Profiles</h4>
                               <div class="artist">
                                 <div class="photo">
-                                  <img src="images/artists/manomay.jpg"/>
+                                  <img src="../../images/artists/manomay.jpg"/>
                                 </div>
                                 <div class="info">
                                   <strong>Manomay Bhattacharya</strong>
@@ -157,7 +157,7 @@ include("include/header.php");
                             <h3>Sunday, October 2nd, 2011</h3>
                             <div class="programs">
                               <div class="float_right">
-                                <a href="images/banner/Bollywood_Night_Flyer.jpg" target="_blank"><img src="images/banner/Bollywood_Night_Flyer_thumb.jpg" alt="Pujari presents Bollywood Hangama Night 2011"></a>
+                                <a href="../../images/banner/Bollywood_Night_Flyer.jpg" target="_blank"><img src="../../images/banner/Bollywood_Night_Flyer_thumb.jpg" alt="Pujari presents Bollywood Hangama Night 2011"></a>
                               </div>
                               <strong>Rock & Roll your Sunday evening to the rhythm of this sensational Bollywood “Jodi No. 1” from Zee TV’s SA RE GA MA PA...</strong>
                               Soumen and Pratibha have been regular performers together as “JODI # 1” all over the world.
@@ -181,7 +181,7 @@ include("include/header.php");
                               <h4>Artist Profiles</h4>
                               <div class="artist">
                                 <div class="photo">
-                                  <img src="images/artists/soumen.png"/>
+                                  <img src="../../images/artists/soumen.png"/>
                                 </div>
                                 <div class="info">
                                   <strong>Soumen Nandi</strong>
@@ -201,7 +201,7 @@ include("include/header.php");
                               <h4>Artist Profiles</h4>
                               <div class="artist">
                                 <div class="photo">
-                                  <img src="images/artists/pratibha.png"/>
+                                  <img src="../../images/artists/pratibha.png"/>
                                 </div>
                                 <div class="info">
                                   <strong>Pratibha Singh Baghel</strong>
