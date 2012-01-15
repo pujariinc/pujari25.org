@@ -25,7 +25,52 @@ include("include/header.php");
                         	<h2>Upcoming Events</h2>
                             <div class="space_sml"></div>
                             <div>
-                                
+                                <div class="single_event">
+                                <table border="0" width="100%">
+                                <tbody>
+                                <tr>
+
+                                <td width="70px">
+                                <div class="date_bg">
+                                <div class="month">Apr</div>
+                                <div class="date">14</div>
+                                </div>
+                                </td>
+                                <td>
+                                <p><span style="font-size: 16px;">Baisakhi</span></p>
+                                <p>2012</p>
+                                <!--<p><a href="events_Baisakhi2012.php">View program details and times</a></p>-->
+                                </td>
+                                </tr>
+
+                                </tbody>
+                                </table>
+                                </div>
+                                <p>&nbsp;</p>
+
+                                <div class="single_event">
+                                <table border="0" width="100%">
+                                <tbody>
+                                <tr>
+
+                                <td width="70px">
+                                <div class="date_bg">
+                                <div class="month">May</div>
+                                <div class="date">10</div>
+                                </div>
+                                </td>
+                                <td>
+                                <p><span style="font-size: 16px;">Picnic</span></p>
+                                <p>2012</p>
+                                <!--<p><a href="events_Picnic2012.php">View program details and times</a></p>-->
+                                </td>
+                                </tr>
+
+                                </tbody>
+                                </table>
+                                </div>
+                                <p>&nbsp;</p>
+
                                 <div class="single_event">
                                 <table border="0" width="100%">
                                 <tbody>
@@ -38,9 +83,9 @@ include("include/header.php");
                                 </div>
                                 </td>
                                 <td>
-                                <p><strong><span style="font-size: 16px;">Durga Puja</span></strong></p>
-                                <p>From September 30, 2011 to October 02, 2011</p>
-                                <p><a href="events_DP2011.php">View program details and times</a></p>
+                                <p><span style="font-size: 16px;">Durga Puja</span></p>
+                                <p>From 2012 to 2012</p>
+                                <!--<p><a href="events_DP2012.php">View program details and times</a></p>-->
                                 </td>
                                 </tr>
                                 
@@ -61,6 +106,8 @@ include("include/header.php");
                                 <td>
                                 
                                 <p><span style="font-size: 16px;"><strong>Lakshmi Puja</strong></span></p>
+                                <p>2012</p>
+                                <!--<p><a href="events_LP2012.php">View program details and times</a></p>-->
                                 </td>
                                 </tr>
                                 </tbody>
@@ -80,6 +127,8 @@ include("include/header.php");
                                 </td>
                                 <td>
                                 <p><span style="font-size: 16px;"><strong><span>New Year's Eve Celebration</span></strong></span></p>
+                                <p>December 31st, 2012</p>
+                                <!--<p><a href="events_nye2012.php">View program details and times</a></p>-->
                                 </td>
                                 </tr>
                                 </tbody>
