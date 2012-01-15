@@ -1,8 +1,9 @@
 <div class="announcement">
   <h2>Announcements</h2>
   <div class="text">
-    <strong>Next Event:</strong> 2012 New Years Eve Party at Ashiana Banquet Hall.<br/><br/>
-    For more information and details visit: <a href="http://atlantanewyearparty.net" target="_blank">http://atlantanewyearparty.net</a>
+    <strong>Pujari presents RBC 2012</strong><br/><br/>
+    Pujari is proud to present the 3rd Regional Bengali Conference 2012 here in Atlanta, from June 29th, 2012 to July 1st, 2012.
+    <br/>For more information and details visit: <a href="http://www.rbc2012.org/" target="_blank">http://www.rbc2012.org/</a>
     <br/><br/><br/>
   </div>
   <!--<div class="read_more"><a href="#">read more &raquo;</a></div>-->
@@ -11,6 +12,11 @@
 <div class="pastevents">
   <h2>Past Events</h2>
   <div class="text">
+    <h3>New Year's Eve Party</h3>
+    <ul>
+      <li>Photos (coming soon)</li>
+      <li>Videos (coming soon)</li>
+    </ul>
     <h3>Lakshmi Puja</h3>
     <ul>
       <li>Photos (coming soon)</li>
