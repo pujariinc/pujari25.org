@@ -173,7 +173,7 @@ include("include/header.php");
                                           </tr>
                                           <tr>
                                             <td valign="top" width="187"><p> <strong>Food Coordinators</strong></p></td>
-                                            <td valign="top" width="196"><p>Arijit Sarkar, Subir Dutta, Niloofer Mondal, Nachiketa Nandi</p></td>
+                                            <td valign="top" width="196"><p>Arijit Sarkar, Subir Dutta, Niloofer Mondal</p></td>
                                           </tr>
                                           <tr>
                                             <td valign="top" width="187"><p> <strong>Decoration</strong></p></td>
